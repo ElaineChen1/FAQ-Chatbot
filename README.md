@@ -1,6 +1,6 @@
 # FAQ-Chatbot
 
-### Task: Convert a FAQ sheet into a chatbot
+### Task: To Convert a FAQ sheet into a chatbot
 
 - Create CORPUS with all questions and its answers
 - Find the most similar question to that of all the available questions in the CORPUS
